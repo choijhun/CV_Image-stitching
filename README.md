@@ -14,10 +14,8 @@ Feature matching , Homography를 이용한 두 이미지를 합성한다.
 - Least square는 모든 matching point를 사용하여 homography가 안정적이지 않을 수 있음
 - RANSAC은 일관된 matching point들만 사용하여 homography가 안정적
 
-# Left image
+# Left image, Right image
 <img width="248" height="331" alt="L3" src="https://github.com/user-attachments/assets/61fba665-e98b-49e2-9a81-30ad54711ffd" />
-
-# Right image
 <img width="248" height="331" alt="R3" src="https://github.com/user-attachments/assets/a8d42832-0a5b-4991-ae98-64d153503d39" />
 
 # feature points
